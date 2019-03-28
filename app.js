@@ -1,1 +1,1 @@
-sonsol.log ('Hello');
+consol.log ('Hello');
